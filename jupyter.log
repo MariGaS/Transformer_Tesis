@@ -1,0 +1,73 @@
+/home/est_posgrado_maria.garcia/.conda/envs/proyecto/lib/python3.10/site-packages/IPython/paths.py:70: UserWarning: IPython parent '/home/est_posgrado_maria.garcia' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[W 15:38:51.614 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 15:38:51.619 NotebookApp] Serving notebooks from local directory: /home/est_posgrado_maria.garcia
+[I 15:38:51.619 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 15:38:51.619 NotebookApp] http://g-0-7:8888/?token=34aeab3cac4aaea525e03dc2854bb16e65f28772144b8327
+[I 15:38:51.619 NotebookApp]  or http://127.0.0.1:8888/?token=34aeab3cac4aaea525e03dc2854bb16e65f28772144b8327
+[I 15:38:51.619 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:38:51.625 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/est_posgrado_maria.garcia/.local/share/jupyter/runtime/nbserver-41996-open.html
+    Or copy and paste one of these URLs:
+        http://g-0-7:8888/?token=34aeab3cac4aaea525e03dc2854bb16e65f28772144b8327
+     or http://127.0.0.1:8888/?token=34aeab3cac4aaea525e03dc2854bb16e65f28772144b8327
+[I 15:48:59.610 NotebookApp] 302 GET /?token=34aeab3cac4aaea525e03dc2854bb16e65f28772144b8327 (172.23.3.254) 1.140000ms
+[W 15:49:15.461 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221102153851 (172.23.3.254) 14.990000ms referer=http://127.0.0.1:8888/notebooks/Transformers/Bert_base_uncased/BERT/test.ipynb
+[I 15:49:16.243 NotebookApp] Kernel started: 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf, name: python3
+[I 15:49:16.659 NotebookApp] Kernel started: 56bd2f90-d84d-4ae1-94be-8918b570b7b7, name: python3
+[I 15:49:16.661 NotebookApp] Kernel started: a43dd350-85d6-427e-be84-8a98d6654820, name: python3
+[W 15:49:17.520 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221102153851 (172.23.3.254) 2.760000ms referer=http://127.0.0.1:8888/notebooks/Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[W 15:49:17.566 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221102153851 (172.23.3.254) 2.390000ms referer=http://127.0.0.1:8888/notebooks/Transformers/Bert_base_uncased/BERT/test2.ipynb
+/home/est_posgrado_maria.garcia/.conda/envs/proyecto/lib/python3.10/site-packages/IPython/paths.py:70: UserWarning: IPython parent '/home/est_posgrado_maria.garcia' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+/home/est_posgrado_maria.garcia/.conda/envs/proyecto/lib/python3.10/site-packages/IPython/paths.py:70: UserWarning: IPython parent '/home/est_posgrado_maria.garcia' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+/home/est_posgrado_maria.garcia/.conda/envs/proyecto/lib/python3.10/site-packages/IPython/paths.py:70: UserWarning: IPython parent '/home/est_posgrado_maria.garcia' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 15:50:24.070 NotebookApp] Starting buffering for a43dd350-85d6-427e-be84-8a98d6654820:234b717835d4426c841dc7e1a6aa9df6
+[I 15:50:24.075 NotebookApp] Kernel shutdown: a43dd350-85d6-427e-be84-8a98d6654820
+[I 15:50:26.995 NotebookApp] Starting buffering for 56bd2f90-d84d-4ae1-94be-8918b570b7b7:f7565b06316c4bef8342a6fca2f54f88
+[I 15:50:26.998 NotebookApp] Kernel shutdown: 56bd2f90-d84d-4ae1-94be-8918b570b7b7
+2022-11-02 15:50:59.907531: I tensorflow/core/util/util.cc:169] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+[I 15:51:16.311 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 16:03:04.897 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 17:17:16.885 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 17:17:18.862 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[W 19:53:18.039 NotebookApp] WebSocket ping timeout after 119836 ms.
+[I 19:53:23.043 NotebookApp] Starting buffering for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:d0c7b1b0dd23408cb83a61f1192a786c
+[I 19:57:02.531 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 19:57:39.803 NotebookApp] Restoring connection for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:d0c7b1b0dd23408cb83a61f1192a786c
+[I 19:57:44.483 NotebookApp] Starting buffering for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:d0c7b1b0dd23408cb83a61f1192a786c
+[I 19:57:44.598 NotebookApp] Restoring connection for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:d0c7b1b0dd23408cb83a61f1192a786c
+[I 23:43:12.046 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[W 23:43:33.834 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221102153851 (172.23.3.254) 3.090000ms referer=http://127.0.0.1:8888/notebooks/Transformers/Bert_base_uncased/BERT/test1.ipynb
+[I 23:43:34.291 NotebookApp] Kernel started: a241fa12-9750-4e5e-b817-441d24bb200e, name: python3
+/home/est_posgrado_maria.garcia/.conda/envs/proyecto/lib/python3.10/site-packages/IPython/paths.py:70: UserWarning: IPython parent '/home/est_posgrado_maria.garcia' is not a writable location, using a temp directory.
+  warn("IPython parent '{0}' is not a writable location,"
+[I 23:45:17.872 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 23:51:21.582 NotebookApp] Kernel interrupted: 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf
+[I 23:53:17.618 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[W 07:38:44.600 NotebookApp] WebSocket ping timeout after 119917 ms.
+[I 07:38:49.601 NotebookApp] Starting buffering for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:d0c7b1b0dd23408cb83a61f1192a786c
+[I 07:46:20.915 NotebookApp] Restoring connection for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:d0c7b1b0dd23408cb83a61f1192a786c
+[W 09:16:56.683 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221102153851 (172.23.3.254) 3.000000ms referer=http://127.0.0.1:8888/notebooks/Transformers/Bert_base_uncased/BERT/test1.ipynb
+[W 09:16:57.267 NotebookApp] zmq message arrived on closed channel
+[W 09:16:57.268 NotebookApp] zmq message arrived on closed channel
+[W 09:16:57.271 NotebookApp] zmq message arrived on closed channel
+[W 09:16:57.272 NotebookApp] zmq message arrived on closed channel
+[W 09:16:57.283 NotebookApp] zmq message arrived on closed channel
+[W 09:16:57.286 NotebookApp] zmq message arrived on closed channel
+[I 09:17:03.068 NotebookApp] Starting buffering for a241fa12-9750-4e5e-b817-441d24bb200e:5840cbb915da4d65a08e65bb0045a3ca
+[I 09:17:05.954 NotebookApp] Kernel shutdown: a241fa12-9750-4e5e-b817-441d24bb200e
+[W 09:17:05.960 NotebookApp] zmq message arrived on closed channel
+[W 09:17:05.979 NotebookApp] zmq message arrived on closed channel
+[W 09:17:06.018 NotebookApp] zmq message arrived on closed channel
+[W 09:17:11.987 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221102153851 (172.23.3.254) 3.100000ms referer=http://127.0.0.1:8888/notebooks/Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 09:17:26.067 NotebookApp] Saving file at /Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 09:17:40.917 NotebookApp] Starting buffering for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:d0c7b1b0dd23408cb83a61f1192a786c
+[W 09:17:45.013 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20221102153851 (172.23.3.254) 2.910000ms referer=http://127.0.0.1:8888/notebooks/Transformers/Bert_base_uncased/BERT/test_dep.ipynb
+[I 09:17:52.695 NotebookApp] Starting buffering for 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf:1ab231f516ec44bbbcc0e6740196714f
+[I 09:17:55.650 NotebookApp] Kernel shutdown: 2ae268e3-57b2-4cc5-b5f8-01fd1ae953bf
+slurmstepd: error: *** JOB 22491 ON g-0-7 CANCELLED AT 2022-11-03T09:18:36 ***

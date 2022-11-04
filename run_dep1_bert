@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --partition=GPU
+#SBATCH --job-name=BERT_DEP
+#SBATCH --output=BERT_DEP_CLEAN.log
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=maria.garcia@cimat.mx
+cd /home/est_posgrado_maria.garcia/Transformers/Bert_base_uncased/BERT
+source /opt/anaconda351/etc/profile.d/conda.sh
+conda activate proyecto
+hostname
+date
+python test_dep.py
+
+date
+
+

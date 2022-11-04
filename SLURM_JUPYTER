@@ -1,0 +1,18 @@
+#!/bin/bash
+# launch jupyter
+
+#SBATCH --job-name=BERT
+#SBATCH --partition=GPU
+######SBATCH -J jupyter
+
+
+#SBATCH --output=jupyter.log
+
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mail-user=maria.garcia@cimat.mx
+
+source /opt/anaconda3_titan/bin/activate
+conda activate proyecto
+
+# jupyter lab --no-browser --ip "*" --notebook-dir ~/
+jupyter notebook --no-browser --ip "*" --notebook-dir ~/
